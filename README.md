@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arjun Rawal</h1>
 <h3 align="center">A passionate To learn code</h3>
 
-- 🔭 I’m currently working on **face recognition system**
+- 🔭 I’m currently working on **Just learning something**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **QA**
 
 - ⚡ Fun fact **I loved to play games**
 
